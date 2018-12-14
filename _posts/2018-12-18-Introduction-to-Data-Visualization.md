@@ -23,6 +23,6 @@ I decided on selecting a data source with much to work with. Luckily, I was able
 
 ### Data Source
 
-* [World Education rankings] (emon654.github.io/assets/World_education_rankings.csv)
+* [World Education rankings](emon654.github.io/assets/World.csv)
   
 
