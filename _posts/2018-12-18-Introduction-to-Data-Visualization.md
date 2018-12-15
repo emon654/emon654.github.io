@@ -51,14 +51,19 @@ As many of us are students in the United States I have taken the top 10 universi
 
 ### Impediments
 
-I may had many columns and rows in my dataset, but I wish I could have shown with different graphs. The data that I had were more discrete since most of it was rankings. The data field score was continuous, however; it relates to its overall quality of the university. As per for my research question I was not able to do much with calculated fields since I primarily wanted to show the comparisons of different colleges.
+I may had many columns and rows in my dataset, but I wish I could have shown the data with different graphs. The data that I had were more discrete since most of it was rankings. The data field score was continuous, however; it relates to its overall quality of the university. As per for my research question I was not able to do much with calculated fields since I primarily wanted to show the comparisons of different colleges. I have used it for developing diagram purposes such averaging out the score, placeholders, 
 
 ### Practices From the Author
-As per for strategies I provided from the book I concentrated on avoiding clutter. I utlized a few color variations such as 'blue' and'grey' to differentiate the many bars shown. My visualzation are quite simple when it comes displaying 
+As per for strategies I provided from the book I concentrated on avoiding clutter. I utlized a few color variations such as 'blue' and'grey' to differentiate the many bars shown. My visualzation are quite simple when it comes to displaying them. Mainly, I used performance bar charts just to show who or what is doing better. 
 
+
+* Each chart represents some form of competitiveness when looking at the data. These charts can provide an outlook for those who would like to know the overall quality of schools in different areas. Although, the idea of school is recieving education it would be interesting to know what places offers the best education. There are many that would like ot study abroad for the experiance, however; the value of the institution is also important. 
 
 
 ### Conclusion
+
+In conclusion, USA seemed to have higher quality education in comparison to the other countries. Although, in past years in 2012 and 2013 the United Kingdom had surpassed the United States slightly. Based on the average scores the United Kingdom supplemented better education in those two years. Now, looking at 2015s data the results had declined for all of them but USA has the highest percentage. I will be honest I randomly selected these four countries to compare, but looking at their rankings for the top 5 colleges it seems as though there is much quality. I am quite shocked that USA provides the highest quality of education. My best guess is they have state of the art equipment and processes to provide adequate education.    
+
 
 ## Data Source
 
