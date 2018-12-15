@@ -36,6 +36,12 @@ The text table shows the top 5 universities in each country. The rankings consis
 
 Recently, I showed the top 5 universities but I decided to show the relevant countries average score. I used a calculated field to show an average score of each year from all universities in each vicinity. I also included years from 2012 to 2015, and I added a parameter called proficiency to display what surpassed the certain score. I gave it 3 filters which are country, year, and alumni employment. It will give the user a chance to have different views of countries, years, and how the alumni employment can effect the numbers.  
 
+### National Rankings
+
+<iframe src = "https://public.tableau.com/shared/C9W3G58NK?:display_count=yes" width="1000" height="600"></iframe> 
+
+As many of us are students in the United States I have taken the top 10 universities and compared them. As you would hover over the bars the tooltip provides information based on it’s national rank, education, faculty, and score. It would seem Harvard is the highest quality of all, and California Institute of of Technology ranked last. Overall, these are elite colleges with strong teachers educating their students to be well versed in the subject matter. 
+
 ## Data Source
 
 * [World Education rankings](emon654.github.io/assets/cwurData.csv)
