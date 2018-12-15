@@ -23,7 +23,7 @@ I decided on selecting a data source with much to work with. Luckily, I was able
 
 ## Visuals
 
-<iframe src = "https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes" width="95%" height="600"></iframe>
+<iframe src = "https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes" width="120%" height="600"></iframe>
 
 ### Data Source
 
