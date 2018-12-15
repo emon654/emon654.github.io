@@ -18,7 +18,7 @@ Tableau is a tool which allows the user to create interactive visualization conc
 
 ### DataSet
 
-I decided on selecting a data source with much to work with. Luckily, I was able to retrieve a dataset pertaining to college rankings worldwide. It was also recent rankings from the years 2012 to 2015. As I reviewed the data set it had many rows to explore, so this gave me the oppurtunity to priortize countires with colleges that had a higher rank. There is much data fields such as institution, world rank, national rank, quality of education and others that helped me make comparsions of colleges. 
+I decided on selecting a data source with much to work with. Luckily, I was able to retrieve a dataset pertaining to college rankings worldwide. It was also recent rankings from the years 2012 to 2015. As I reviewed the data set it had many rows to explore, so this gave me the oppurtunity to priortize countires with colleges that had a higher rank. There is much data fields such as institution, world rank, national rank, quality of education,  that helped me make comparsions of colleges. 
 
 
 ## Visuals
@@ -32,7 +32,7 @@ The text table shows the top 5 universities in each country. The rankings consis
 
 ### Average score of all colleges in each area
 
-<iframe src = "https://public.tableau.com/views/Averagescoresoverall/Scores?:embed=y&:display_count=yes" width="1000" height="600"></iframe> 
+<iframe src = "https://public.tableau.com/views/Averagescoresoverall/Scores?:embed=y&:display_count=yes" width="1000" height="600></iframe> 
 
 Recently, I showed the top 5 universities but I decided to show the relevant countries average score. I used a calculated field to show an average score of each year from all universities in each vicinity. I also included years from 2012 to 2015, and I added a parameter called proficiency to display what surpassed the certain score. I gave it 3 filters which are country, year, and alumni employment. It will give the user a chance to have different views of countries, years, and how the alumni employment can effect the numbers.  
 
