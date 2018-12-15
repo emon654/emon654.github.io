@@ -37,13 +37,13 @@ The text table shows the top 5 universities in each country. The rankings consis
 
 ### Average score of all colleges in each area
 
-<iframe src = "https://public.tableau.com/views/Averagescoresoverall/Scores?:embed=y&:display_count=yes" width="1000" height="600"></iframe> 
+<iframe src = "https://public.tableau.com/views/Averagescoresoverall/Scores?:embed=y&:display_count=yes" width="900" height="600"></iframe> 
 
 Recently, I showed the top 5 universities but I decided to show the relevant countries average score. I used a calculated field to show an average score of each year from all universities in each vicinity. I also included years from 2012 to 2015, and I added a parameter called proficiency to display what surpassed the certain score. I gave it 3 filters which are country, year, and alumni employment. It will give the user a chance to have different views of countries, years, and how the alumni employment can effect the numbers.  
 
 ### National Rankings
 
-<iframe src = "https://public.tableau.com/shared/C9W3G58NK?:display_count=yes" width="1000" height="600"></iframe> 
+<iframe src = "https://public.tableau.com/shared/C9W3G58NK?:display_count=yes" width="900" height="600"></iframe> 
 
 As many of us are students in the United States I have taken the top 10 universities and compared them. As you would hover over the bars the tooltip provides information based on it’s national rank, education, faculty, and score. It would seem Harvard is the highest quality of all, and California Institute of of Technology ranked last. Overall, these are elite colleges with strong teachers educating their students to be well versed in the subject matter. 
 
@@ -51,7 +51,7 @@ As many of us are students in the United States I have taken the top 10 universi
 
 ### Impediments
 
-I may had many columns and rows in my dataset, but I wish I could have shown the data with different graphs. The data that I had were more discrete since most of it was rankings. The data field score was continuous, however; it relates to its overall quality of the university. As per for my research question I was not able to do much with calculated fields since I primarily wanted to show the comparisons of different colleges. I have used it for developing diagram purposes such averaging out the score, placeholders, 
+I may had many columns and rows in my dataset, but I wish I could have shown the data with different graphs. The data that I had were more discrete since most of it was rankings. The data field score was continuous, however; it relates to its overall quality of the university. As per for my research question I was not able to do much with calculated fields since I primarily wanted to show the comparisons of different colleges. I have used it for developing diagram purposes such averaging out the score, placeholders, Strings, and for parameters. These helped me created the charts I needed to show what is important.   
 
 ### Practices From the Author
 As per for strategies I provided from the book I concentrated on avoiding clutter. I utlized a few color variations such as 'blue' and'grey' to differentiate the many bars shown. My visualzation are quite simple when it comes to displaying them. Mainly, I used performance bar charts just to show who or what is doing better. 
@@ -67,7 +67,7 @@ In conclusion, USA seemed to have higher quality education in comparison to the 
 
 ## Data Source
 
-* [World Education rankings](emon654.github.io/assets/cwurData.csv)
+* [World Education rankings](https://www.kaggle.com/mylesoneill/world-university-rankings#cwurData.csv)
       
  
   
