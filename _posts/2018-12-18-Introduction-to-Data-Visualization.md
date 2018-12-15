@@ -21,6 +21,10 @@ Tableau is a tool which allows the user to create interactive visualization conc
 I decided on selecting a data source with much to work with. Luckily, I was able to retrieve a dataset pertaining to college rankings worldwide. It was also recent rankings from the years 2012 to 2015. As I reviewed the data set it had many rows to explore, so this gave me the oppurtunity to priortize countires with colleges that had a higher rank. There is much data fields such as institution, world rank, national rank, quality of education and others that helped me make comparsions of colleges. 
 
 
+## Visuals
+
+https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes
+
 ### Data Source
 
 * [World Education rankings](emon654.github.io/assets/cwurData.csv)
