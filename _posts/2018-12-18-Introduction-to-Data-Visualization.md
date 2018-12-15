@@ -29,7 +29,14 @@ I decided on selecting a data source with much to work with. Luckily, I was able
 
 The text table shows the top 5 universities in each country. The rankings consist of world rank, quality of faculty, and publication. Publication shows how well a student can be supplied with schooling needs. An example would be textbooks or online resources provided by the instructor. As a student I was provided a limited time access to be Tableau for academic purposes. As shown these are details from 2015s data and viewing the data I was somewhat shocked by the results. I always thought other countries had a higher world ranking, but it would seem USA has a higher ranking which also includes faculty and publication. 
 
-### Data Source
+
+### Average score of all colleges in each area
+
+<iframe src = "https://public.tableau.com/views/Averagescoresoverall/Scores?:embed=y&:display_count=yes" width="1000" height="600"></iframe> 
+
+Recently, I showed the top 5 universities but I decided to show the relevant countries average score. I used a calculated field to show an average score of each year from all universities in each vicinity. I also included years from 2012 to 2015, and I added a parameter called proficiency to display what surpassed the certain score. I gave it 3 filters which are country, year, and alumni employment. It will give the user a chance to have different views of countries, years, and how the alumni employment can effect the numbers.  
+
+## Data Source
 
 * [World Education rankings](emon654.github.io/assets/cwurData.csv)
       
