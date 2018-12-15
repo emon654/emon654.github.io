@@ -23,7 +23,7 @@ I decided on selecting a data source with much to work with. Luckily, I was able
 
 ## Visuals
 
-https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes
+<https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes>
 
 ### Data Source
 
