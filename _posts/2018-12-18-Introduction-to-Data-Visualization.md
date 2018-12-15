@@ -23,7 +23,11 @@ I decided on selecting a data source with much to work with. Luckily, I was able
 
 ## Visuals
 
-<iframe src = "https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes" width="400" height="600"></iframe>
+### Text Table
+
+<iframe src = "https://public.tableau.com/views/FinalProject_692/Overalltexttable?:embed=y&:display_count=yes" width="1000" height="600"></iframe>
+
+The text table shows the top 5 universities in each country. The rankings consist of world rank, quality of faculty, and publication. Publication shows how well a student can be supplied with schooling needs. An example would be textbooks or online resources provided by the instructor. As a student I was provided a limited time access to be Tableau for academic purposes. As shown these are details from 2015s data and viewing the data I was somewhat shocked by the results. I always thought other countries had a higher world ranking, but it would seem USA has a higher ranking which also includes faculty and publication. 
 
 ### Data Source
 
