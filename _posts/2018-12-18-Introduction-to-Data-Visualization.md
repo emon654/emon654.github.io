@@ -43,7 +43,7 @@ Recently, I showed the top 5 universities but I decided to show the relevant cou
 
 ### National Rankings
 
-<iframe src = "https://public.tableau.com/views/NationalRankings/NationalRankingsUSA2015?:embed=y&:display_count=yes" width="1200" height="500"></iframe> 
+<iframe src = "https://public.tableau.com/views/NationalRankings/NationalRankingsUSA2015?:embed=y&:display_count=yes" width="1200" height="600"></iframe> 
 
 As many of us are students in the United States I have taken the top 10 universities and compared them. As you would hover over the bars the tooltip provides information based on it’s national rank, education, faculty, and score. It would seem Harvard is the highest quality of all, and California Institute of of Technology ranked last. Overall, these are elite colleges with strong teachers educating their students to be well versed in the subject matter. 
 
