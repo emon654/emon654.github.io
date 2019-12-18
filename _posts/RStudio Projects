@@ -17,13 +17,6 @@ RStudio is an integrated development environment (IDE) for R. It includes a cons
  
 ### DataSet
 
-I decided on selecting a data source with much to work with. Luckily, I was able to retrieve a dataset pertaining to college rankings worldwide. It was also recent rankings from the years 2012 to 2015. As I reviewed the data set it had many rows to explore, so this gave me the oppurtunity to priortize countires with colleges that had a higher rank. There is much data fields such as institution, world rank, national rank, quality of education,  that helped me make comparsions of colleges. The data that was represented were many rankings, so there were not consider continuous. If I were using them as continuous it would add them up as 'sum' but that would be misleading since that was not the purpose.
-
-* World Rank showed ranks for each college and I applied the Year data field since data changes every year.
-* Publications gives me an idea of how well a school prepares their students for success, or if the supplies are easily accessible. 
-* National rank displayed the rank within the country. 
-* Score was one I have used a lot since it showed its overall quality of the university. 
-* Quality of Education and Faculty was a rank that represented how well is their teachings to students.  
 
 ## Visuals
 
